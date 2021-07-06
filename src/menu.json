@@ -1,0 +1,57 @@
+
+ [
+  {
+    "id": "d1",
+    "category": "Desayuno",
+    "name": "Cafe Americano",
+    "price": 1000
+  },
+  {
+    "id": "d2",
+    "category": "Desayuno",
+    "name": "Cafe con Leche",
+    "price": 1200
+  },
+  {
+    "id": "d3",
+    "category": "Desayuno",
+    "name": "Sandwich de jamón y queso",
+    "price": 1200
+  },
+  {
+    "id": "d4",
+    "category": "Desayuno",
+    "name": "Jugo de Frutas Natural",
+    "price": 1000
+  },
+  {
+    "id": "a1",
+    "category": "Almuerzo",
+    "name": "Hamburguesas",
+    "options": [
+      "Simple",
+      "Doble"
+    ],
+    "price": 3500
+  },
+  {
+    "id": "b1",
+    "category": "Bebestible",
+    "name": "Para Tomar",
+    "options": [
+      "Agua 500ml",
+      "Bebida/gaseosa 500ml"
+    ],
+    "price": 1000
+  },
+  {
+    "id": "b2",
+    "category": "Bebestible",
+    "name": "Para tomar / Grande",
+    "options": [
+      "Agua 750ml",
+      "Bebida/gaseosa 750ml"
+    ],
+    "price": 2000
+  }
+]

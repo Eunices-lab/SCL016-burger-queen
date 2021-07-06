@@ -1,0 +1,15 @@
+
+.container{
+    color: #6b0a1d;
+}
+
+input {
+    border-radius: 5px;
+    width: 30%;
+    margin: 10px;
+    border-color: #8C293C;
+
+}
+body{
+    background: linear-gradient(to left, #f0a5cc, #ffaaa3, #efbd87, #c5d38d, #8ee3b7);
+}
